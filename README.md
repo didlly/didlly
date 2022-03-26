@@ -1,3 +1,5 @@
+[![View counter](https://komarev.com/ghpvc/?username=didlly)]()
+
 ```python
 from github import README
 
