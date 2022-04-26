@@ -7,7 +7,7 @@ class README():
   name = "didlly"
   age = 13
   
-  skilset = [
+  skillset = [
   "python",
   "HTML",
   "C#"
