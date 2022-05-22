@@ -17,7 +17,7 @@ class PROFILE():
     projects = [
       {
         "name": "Grank",
-        "description": 📜 A feature-rich Dank Memer automation script. Inspired by dankgrinder.",
+        "description": "📜 A feature-rich Dank Memer automation script. Inspired by dankgrinder.",
         "link": "https://github.com/didlly/grank"
       }
     ]
