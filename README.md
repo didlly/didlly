@@ -1,22 +1,24 @@
 [![View counter](https://komarev.com/ghpvc/?username=didlly)]()
 
 ```python
-from github import README
+from github import PROFILE
 
-class README():
-  name = "didlly"
-  age = 13
+class PROFILE():
+  def __init__(self):
+    self.name = "didlly"
+    self.age = 13
   
-  skillset = [
-  "python",
-  "HTML",
-  "C#"
-  ]
+    self.skillset = [
+      "python",
+      "HTML",
+      "CSS"
+    ]
   
-  projects = {
-    "grank": {
-      "link": "https://github.com/didlly/grank",
-      "description": 📜 A feature-rich Dank Memer automation script. Based on dankgrinder."
-    }
-  }
+    projects = [
+      {
+        "name": "Grank"
+        "description": 📜 A feature-rich Dank Memer automation script. Inspired by dankgrinder."
+        "link": "https://github.com/didlly/grank",
+      }
+    ]
 ```
