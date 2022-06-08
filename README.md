@@ -29,6 +29,7 @@ class PROFILE():
         "name": "Encrypx",
         "description": "Coming soon...",
         "link": "https://github.com/didlly/Encrypx"
+      }
     ]
 
   def bread(self) -> str:
